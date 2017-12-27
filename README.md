@@ -10,7 +10,6 @@ I am keeping the app on the App Store for those users who are still on an older 
 <p float="left">
   <img src="https://user-images.githubusercontent.com/34778680/34326476-27013206-e8a5-11e7-9530-01796e1a605d.png" width="49%" />
   <img src="https://user-images.githubusercontent.com/34778680/34326475-26e81ad2-e8a5-11e7-96cc-f7ccd6a3d5be.png" width="49%" /> 
-
 </p>
 
 
