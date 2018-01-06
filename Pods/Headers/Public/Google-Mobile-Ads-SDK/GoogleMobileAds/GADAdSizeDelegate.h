@@ -1,0 +1,5 @@
+XSym
+0120
+b2a3fddd3a9bf94f8c6337e7efe29da8
+../../../../Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Versions/A/Headers/GADAdSizeDelegate.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       

@@ -1,0 +1,5 @@
+#import <Foundation/Foundation.h>
+@interface PodsDummy_Pods_Snapchat_Text_Effects__Make_Your_Snap_Stand_Out : NSObject
+@end
+@implementation PodsDummy_Pods_Snapchat_Text_Effects__Make_Your_Snap_Stand_Out
+@end

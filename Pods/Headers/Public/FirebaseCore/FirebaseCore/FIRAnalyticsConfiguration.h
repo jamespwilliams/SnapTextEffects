@@ -1,0 +1,5 @@
+XSym
+0105
+3ab6399b7c4faf7497d9284860158351
+../../../../FirebaseCore/Frameworks/frameworks/FirebaseCore.framework/Headers/FIRAnalyticsConfiguration.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      

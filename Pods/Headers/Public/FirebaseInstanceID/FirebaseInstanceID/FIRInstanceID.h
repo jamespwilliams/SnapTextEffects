@@ -1,0 +1,5 @@
+XSym
+0105
+e303103979c9b4870e023e54f94d6f80
+../../../../FirebaseInstanceID/Frameworks/frameworks/FirebaseInstanceID.framework/Headers/FIRInstanceID.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
